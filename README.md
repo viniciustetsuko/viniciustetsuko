@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi, i`m Tetsuko 👋
 
-<!--
-**viniciustetsuko/viniciustetsuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i`m a graphic designer passionate about Front-end. :computer:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:wrench: **my current tools**
+
+
+
+:mortar_board: Front-end Web with Reactjs.
+
+
+:mortar_board: Typescript.
+
+
+:mortar_board: Tailwind.
+
+
+:mortar_board: Redux.
+
+
+
+
+**Find me too at...**
+
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](v.alvescosta26@gmail.com
+)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-t-sato-7b4a74209/)
+
+
